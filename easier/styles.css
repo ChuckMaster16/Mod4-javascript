@@ -1,0 +1,11 @@
+h1{
+  text-align: center;
+color: blue;
+font-size: 5em;
+filter: drop-shadow(2px 4px 6px black);
+}
+
+body{
+   background-image: radial-gradient(#fc0606, #001698);
+       background-repeat: no-repeat;
+}
